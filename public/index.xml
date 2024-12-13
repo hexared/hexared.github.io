@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hexared&#39;s portfolio</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content on Hexared&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/about/</guid>
+      <description>&gt;$ whoami &gt;$ whoami I&#39;m Matteo Pernarella, a DevSecOps engineer and (recently) penetration tester and bug hunter. My life basically depends by the blink of a cursor, outside my terminal i&#39;m just a guy who loves to learn something new and understand how things works. I&#39;ve started working as a Software engineer during my first year of University, was involved in developing a k8s clone based on python and ansible, here is where my curiosity about DevOps started along with a major interest in cybersecurity.</description>
+    </item>
+    <item>
+      <title>\&gt;$ whoami</title>
+      <link>http://localhost:1313/portfolio/about2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/about2/</guid>
+      <description>I&amp;rsquo;m Matteo Pernarella, a DevSecOps engineer and (recently) penetration tester and bug hunter.&#xA;My life basically depends by the blink of a cursor, outside my terminal i&amp;rsquo;m just a guy who loves to learn something new and understand how things works.&#xA;I&amp;rsquo;ve started working as a Software engineer during my first year of University, was involved in developing a k8s clone based on python and ansible, here is where my curiosity about DevOps started along with a major interest in cybersecurity.</description>
+    </item>
+  </channel>
+</rss>
