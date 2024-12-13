@@ -230,10 +230,6 @@ disableHugoGeneratorInject = false
     name = "telegram"
     url  = "https://t.me/A7L4S"
 
-  [[params.social]]
-    key  = 3
-    name = "email"
-    url  = "mailto:matteo.pernarella@gmail.com"
 
 #  [[params.social]]
 #    name="hackthebox"
