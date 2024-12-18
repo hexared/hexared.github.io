@@ -230,6 +230,11 @@ disableHugoGeneratorInject = false
     name = "telegram"
     url  = "https://t.me/A7L4S"
 
+  [[params.social]]
+    key  = 3
+    name = "file"
+    url  = "https://drive.google.com/file/d/1dq2hBeW9J_tU2qaMD4z2JlxaklFwAJVE/view?usp=sharing"
+
 
 #  [[params.social]]
 #    name="hackthebox"
