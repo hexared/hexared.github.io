@@ -247,14 +247,17 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "./About"
     url        = "about/"
+    index      = 1
   [[menu.main]]
     identifier = "hackstuff"
     name       = "./hack_stuff"
     url        = "https://hexsec.gitbook.io/hackstuff/"
+    index      = 2
   [[menu.main]]
     identifier = "cv"
     name       = "./CV"
     url        = "https://drive.google.com/file/d/1QryChSi6NCQzS1PQ1UqmGdldHoQarWw9/view?usp=sharing"
+    index      = 3
 #  [[menu.main]]
 #    identifier = "posts"
 #    name       = "Posts"
