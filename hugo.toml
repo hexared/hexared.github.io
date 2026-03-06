@@ -256,7 +256,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "cv"
     name       = "./CV"
-    url        = "https://drive.google.com/file/d/1xZHxApLiAAi1m4Z4wvvVnDYDaF0oNrPA/view?usp=sharing"
+    url        = "https://drive.google.com/file/d/1JIN59LpGmp7rpnngHVt5QuQ3e8t-L1cf/view?usp=sharing"
     weight     = 3
 #  [[menu.main]]
 #    identifier = "posts"
