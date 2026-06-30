@@ -228,7 +228,8 @@ disableHugoGeneratorInject = false
   [[params.social]]
     key  = 2
     name = "telegram"
-    url  = "https://t.me/A7L4S"
+    url  = "https://t.me/n3tca7"
+  # url  = "https://t.me/A7L4S"
 
 #  [[params.social]]
 #    key  = 3
